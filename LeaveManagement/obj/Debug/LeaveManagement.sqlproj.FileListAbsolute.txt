@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.dacpac
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.pdb
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.pdb

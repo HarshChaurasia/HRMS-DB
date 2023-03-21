@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\bin\Debug\Attendance.dacpac
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\bin\Debug\Attendance.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\bin\Debug\Attendance.pdb
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\obj\Debug\Attendance.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\obj\Debug\Attendance.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Attendance\obj\Debug\Attendance.pdb

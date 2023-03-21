@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\bin\Debug\Recruitment.dacpac
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\bin\Debug\Recruitment.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\bin\Debug\Recruitment.pdb
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\obj\Debug\Recruitment.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\obj\Debug\Recruitment.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Recruitment\obj\Debug\Recruitment.pdb

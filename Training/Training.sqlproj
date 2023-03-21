@@ -57,4 +57,22 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Employee.sql" />
+    <Build Include="Admin.sql" />
+    <Build Include="Reg_Training.sql" />
+    <Build Include="Teacher.sql" />
+    <Build Include="Courses.sql" />
+    <Build Include="Course_topics.sql" />
+    <Build Include="Course_language.sql" />
+    <Build Include="TestDetails.sql" />
+    <Build Include="TestAnswer.sql" />
+    <Build Include="TestQuestion.sql" />
+    <Build Include="FAQ.sql" />
+    <Build Include="TestStatus.sql" />
+    <Build Include="Course_certificate.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Training.refactorlog" />
+  </ItemGroup>
 </Project>

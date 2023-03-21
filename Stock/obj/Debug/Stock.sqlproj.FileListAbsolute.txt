@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\bin\Debug\Stock.dacpac
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\bin\Debug\Stock.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\bin\Debug\Stock.pdb
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\obj\Debug\Stock.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\obj\Debug\Stock.dll
+C:\Users\Admin\Desktop\Training Management\HRMS-DB\Stock\obj\Debug\Stock.pdb
