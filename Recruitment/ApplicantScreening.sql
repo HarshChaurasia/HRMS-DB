@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[ApplicantInterview]
+﻿CREATE TABLE [dbo].[ApplicantScreening]
 (
 	[ApplicantId] INT NOT NULL, 
     [RecruiterId] INT NOT NULL, 
