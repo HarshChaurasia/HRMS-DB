@@ -1,5 +1,8 @@
 ﻿CREATE TABLE [dbo].[JobLocation]
 (
 	[JobLocationId] INT NOT NULL PRIMARY KEY, 
-    [LocationName] NVARCHAR(200) NOT NULL
+    [City] NVARCHAR(200) NOT NULL, 
+    [State] NVARCHAR(200) NOT NULL, 
+    [Address] NVARCHAR(200) NOT NULL, 
+    [Country] NVARCHAR(200) NOT NULL
 )

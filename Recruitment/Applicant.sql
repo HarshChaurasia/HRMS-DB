@@ -9,6 +9,5 @@
     [HighestEducation] NVARCHAR(200) NOT NULL, 
     [ProfileImage] IMAGE NOT NULL, 
     [Resume] XML NOT NULL, 
-    [UserName] NVARCHAR(200) NOT NULL, 
-    [Password] NVARCHAR(200) NOT NULL
+    [UserId] INT NOT NULL 
 )

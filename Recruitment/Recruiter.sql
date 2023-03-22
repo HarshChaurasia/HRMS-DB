@@ -4,5 +4,6 @@
     [CompanyId] INT NOT NULL, 
     [FullName] NVARCHAR(200) NOT NULL, 
     [Mobile] NVARCHAR(10) NOT NULL, 
-    [EmailId] NVARCHAR(200) NOT NULL
+    [EmailId] NVARCHAR(200) NOT NULL, 
+    [UserId] INT NOT NULL
 )
