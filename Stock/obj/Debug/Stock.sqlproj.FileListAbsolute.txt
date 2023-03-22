@@ -1,6 +1,0 @@
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\bin\Debug\Stock.dacpac
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\bin\Debug\Stock.dll
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\bin\Debug\Stock.pdb
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\obj\Debug\Stock.sqlproj.AssemblyReference.cache
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\obj\Debug\Stock.dll
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Stock\obj\Debug\Stock.pdb
