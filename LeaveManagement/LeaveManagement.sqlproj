@@ -63,5 +63,9 @@
     <Build Include="Holidays.sql" />
     <Build Include="Leave_Application.sql" />
     <Build Include="Leave_Details.sql" />
+    <Build Include="Country.sql" />
+    <Build Include="roles.sql" />
+    <Build Include="State.sql" />
+    <Build Include="Status.sql" />
   </ItemGroup>
 </Project>
