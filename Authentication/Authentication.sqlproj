@@ -57,4 +57,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="EmailValidationStatus.sql" />
+    <Build Include="ExternalProvider.sql" />
+    <Build Include="HashingAlgorithm.sql" />
+    <Build Include="UserLoginData.sql" />
+  </ItemGroup>
 </Project>
