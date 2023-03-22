@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Attendance/bin/Debug
+/Attendance/obj/Debug
+/Authentication/bin/Debug
+/Authentication/obj/Debug
+/LeaveManagement/bin/Debug
+/LeaveManagement/obj/Debug
+/Notification/bin/Debug
+/Notification/obj/Debug
+/Payroll/bin/Debug
+/Payroll/obj/Debug
+/Recruitment/bin/Debug
+/Recruitment/obj/Debug
+/Stock/bin/Debug
+/Stock/obj/Debug
+/Training/bin/Debug
+/Training/obj/Debug
