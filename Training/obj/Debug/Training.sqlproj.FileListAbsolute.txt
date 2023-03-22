@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\bin\Debug\Training.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\bin\Debug\Training.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\bin\Debug\Training.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\obj\Debug\Training.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\obj\Debug\Training.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Training\obj\Debug\Training.pdb

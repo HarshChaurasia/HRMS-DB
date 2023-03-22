@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Admin] (Table)
+       [dbo].[Course_certificate] (Table)
+       [dbo].[Course_language] (Table)
+       [dbo].[Course_topics] (Table)
+       [dbo].[Courses] (Table)
+       [dbo].[Employee] (Table)
+       [dbo].[FAQ] (Table)
+       [dbo].[Reg_Training] (Table)
+       [dbo].[Teacher] (Table)
+       [dbo].[TestAnswer] (Table)
+       [dbo].[TestDetails] (Table)
+       [dbo].[TestQuestion] (Table)
+       [dbo].[TestStatus] (Table)
+
+** Supporting actions

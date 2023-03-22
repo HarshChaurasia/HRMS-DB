@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\bin\Debug\Recruitment.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\bin\Debug\Recruitment.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\bin\Debug\Recruitment.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\obj\Debug\Recruitment.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\obj\Debug\Recruitment.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Recruitment\obj\Debug\Recruitment.pdb

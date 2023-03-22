@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\bin\Debug\Attendance.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\bin\Debug\Attendance.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\bin\Debug\Attendance.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\obj\Debug\Attendance.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\obj\Debug\Attendance.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Attendance\obj\Debug\Attendance.pdb

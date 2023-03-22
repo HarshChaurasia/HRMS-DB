@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\bin\Debug\Payroll.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\bin\Debug\Payroll.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\bin\Debug\Payroll.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\obj\Debug\Payroll.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\obj\Debug\Payroll.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Payroll\obj\Debug\Payroll.pdb

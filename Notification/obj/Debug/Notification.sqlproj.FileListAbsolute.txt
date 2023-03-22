@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\bin\Debug\Notification.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\bin\Debug\Notification.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\bin\Debug\Notification.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\obj\Debug\Notification.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\obj\Debug\Notification.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Notification\obj\Debug\Notification.pdb
