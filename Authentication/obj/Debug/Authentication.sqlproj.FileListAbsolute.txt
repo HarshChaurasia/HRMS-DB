@@ -1,0 +1,6 @@
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\bin\Debug\Authentication.dacpac
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\bin\Debug\Authentication.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\bin\Debug\Authentication.pdb
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\obj\Debug\Authentication.sqlproj.AssemblyReference.cache
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\obj\Debug\Authentication.dll
+C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\Authentication\obj\Debug\Authentication.pdb
