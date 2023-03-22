@@ -62,5 +62,10 @@
     <Build Include="ExternalProvider.sql" />
     <Build Include="HashingAlgorithm.sql" />
     <Build Include="UserLoginData.sql" />
+    <Build Include="GrantedPermission.sql" />
+    <Build Include="Permissions.sql" />
+    <Build Include="UserAccount.sql" />
+    <Build Include="UserLoginExternal.sql" />
+    <Build Include="UserRole.sql" />
   </ItemGroup>
 </Project>
