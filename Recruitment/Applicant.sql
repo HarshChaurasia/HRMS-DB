@@ -8,6 +8,5 @@
     [ProfessionalSummary] NVARCHAR(200) NOT NULL, 
     [HighestEducation] NVARCHAR(200) NOT NULL, 
     [ProfileImage] IMAGE NOT NULL, 
-    [Resume] XML NOT NULL, 
     [UserId] INT NOT NULL 
 )
