@@ -6,5 +6,5 @@
     [CompanyWebsite] NVARCHAR(200) NULL, 
     [UserName] NVARCHAR(200) NOT NULL, 
     [Password] NVARCHAR(200) NOT NULL, 
-    [AccountStatus] NVARCHAR(200) NOT NULL
+    [Accountstatus] NVARCHAR(200) NOT NULL
 )

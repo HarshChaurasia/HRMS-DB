@@ -12,7 +12,7 @@
     [LastApplicationDate] DATETIME NOT NULL, 
     [NoOfVacancy] NVARCHAR(100) NULL, 
     [Status] NVARCHAR(200) NOT NULL, 
-    [PostedBy] NVARCHAR(200) NOT NULL, 
+    [Postedby] NVARCHAR(200) NOT NULL, 
     [DepartmentId] INT NOT NULL, 
     CONSTRAINT [FK_Job_JobCategory] FOREIGN KEY ([JobCategoryId]) REFERENCES [JobCategory]([JobCategoryId]), 
     CONSTRAINT [FK_Job_JobLocation] FOREIGN KEY ([JobLocationId]) REFERENCES [JobLocation]([JobLocationId]), 

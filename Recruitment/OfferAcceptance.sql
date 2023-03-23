@@ -4,7 +4,7 @@
     [ApplicantId] INT NOT NULL, 
     [CompanyId] INT NOT NULL, 
     [JobId] INT NOT NULL, 
-    [OfferApproved] NVARCHAR(100) NOT NULL, 
+    [Offerapproved] NVARCHAR(100) NOT NULL, 
     [JoiningDate] DATETIME NOT NULL, 
     [Package] NVARCHAR(100) NOT NULL, 
     CONSTRAINT [FK_OfferAcceptance_Applicant] FOREIGN KEY ([ApplicantId]) REFERENCES [Applicant]([ApplicantId]), 
