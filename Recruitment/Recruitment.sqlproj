@@ -60,7 +60,7 @@
   <ItemGroup>
     <Build Include="Admin.sql" />
     <Build Include="Applicant.sql" />
-    <Build Include="ApplicantInterview.sql" />
+    <Build Include="ApplicantScreening.sql" />
     <Build Include="ApplicantTest.sql" />
     <Build Include="Application.sql" />
     <Build Include="Company.sql" />
@@ -68,11 +68,13 @@
     <Build Include="JobCategory.sql" />
     <Build Include="JobLocation.sql" />
     <Build Include="OfferAcceptance.sql" />
-    <Build Include="Option.sql" />
     <Build Include="Recruiter.sql" />
-    <Build Include="Test.sql" />
-    <Build Include="TestAnswer.sql" />
-    <Build Include="TestQuestion.sql" />
-    <Build Include="TestStatus.sql" />
+    <Build Include="ApplicationHistory.sql" />
+    <Build Include="Department.sql" />
+    <Build Include="HiringRound.sql" />
+    <Build Include="HiringProcess.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Recruitment.refactorlog" />
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[JobCategory]
 (
 	[JobCategoryId] INT NOT NULL PRIMARY KEY, 
-    [CategoryName] NVARCHAR(200) NOT NULL
+    [CategoryName] NVARCHAR(100) NOT NULL
 )
