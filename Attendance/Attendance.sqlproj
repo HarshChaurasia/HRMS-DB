@@ -57,4 +57,12 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Address.sql" />
+    <Build Include="AddressType.sql" />
+    <Build Include="Attendance.sql" />
+    <Build Include="AttendanceInfo.sql" />
+    <Build Include="Employee.sql" />
+    <Build Include="EmployeeAddress.sql" />
+  </ItemGroup>
 </Project>
