@@ -71,6 +71,11 @@
     <Build Include="Courses.sql" />
     <Build Include="Course_language.sql" />
     <Build Include="Course_topics.sql" />
+    <Build Include="TrainingModule.sql" />
+    <Build Include="TrainingRoleAssignment.sql" />
+    <Build Include="TrainingModuleMapping.sql" />
+    <Build Include="TrainingTracker.sql" />
+    <Build Include="TrainingModuleMaterialMapping.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Training.refactorlog" />
