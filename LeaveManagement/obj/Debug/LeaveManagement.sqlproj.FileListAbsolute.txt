@@ -1,6 +1,0 @@
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.dacpac
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.dll
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\bin\Debug\LeaveManagement.pdb
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.sqlproj.AssemblyReference.cache
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.dll
-C:\Users\91992\OneDrive\Desktop\TM DB\HRMS-DB\LeaveManagement\obj\Debug\LeaveManagement.pdb
